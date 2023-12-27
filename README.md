@@ -14,7 +14,7 @@ BLE stands for Bluetooth Low Energy, which is a wireless communication technolog
 
 BLE is specifically designed for low-power devices that require long battery life, making it ideal for applications where energy efficiency is crucial. It operates in the 2.4 GHz ISM (Industrial, Scientific, and Medical) band and offers lower data transfer rates compared to classic Bluetooth. However, its low power consumption enables devices to operate for extended periods without frequent battery replacements.
 
-#Project Overview
+# Project Overview
 The project aims to demonstrate the capability of controlling devices using voice commands through Bluetooth Low Energy (BLE) communication on a Raspberry Pi. By leveraging the power of voice recognition and the flexibility of BLE, users can interact with various devices wirelessly and conveniently.
 
 The repository includes the necessary code files, libraries, and instructions to set up the Raspberry Pi as a BLE central device and establish communication with peripheral devices. The voice recognition functionality is implemented using a speech-to-text library, enabling users to give voice commands to control connected devices.
